@@ -1,0 +1,6 @@
+{
+    "li_at": "LinkedIn li_at session cookie",
+    "csrf_token": "LinkedIn JSESSIONID or Csrf-Token header value",
+    "validator_url": "URL of deployed instance of\nhttps://github.com/reacherhq/check-if-email-exists/",
+    "linkedin_url": "Organisation's LinkedIn page, like https://www.linkedin.com/company/evil-corp/"
+}
